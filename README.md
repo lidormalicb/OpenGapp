@@ -1,4 +1,5 @@
 כדי לצפות בקובץ תקין מומלץ להוריד אותו ולקרא
+http://bit.ly/OpenGappsRead
 
 # OpenGapp
 
