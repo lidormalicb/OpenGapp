@@ -1,7 +1,7 @@
 כדי לצפות בקובץ תקין מומלץ להוריד אותו ולקרא
 http://bit.ly/OpenGappsRead
 
-# OpenGapp
+#OpenGapp By Lidor Malich
 
 באפשרותך להתקין את חבילת Gapps (חבילת היישומים של גוגל) בכמה דרכים:
 	1. דרך המכשיר עצמו באמצעות APK
